@@ -3,6 +3,7 @@
 ## Overview
 
 **Multi Image Format Viewer** is a PySide6 based GUI application designed to simplify the viewing of multiple SVG icon files. This tool was born out of frustration with the lack of efficient solutions for simultaneously viewing multiple SVG files, which is a common necessity in UI development.
+![sample image](./sample.png)
 
 ## Features
 
